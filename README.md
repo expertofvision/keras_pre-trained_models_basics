@@ -7,7 +7,7 @@ This source code is python implementation of [26 pre-trained models](https://ker
 1. Download the source code.
 2. Create conda environment using following command. For more [Help](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
-conda env create -f tl_pre_trained_models_env.yml
+<p>conda env create -f tl_pre_trained_models_env.yml</p>
 
 3. Activate the environment using following.
 
